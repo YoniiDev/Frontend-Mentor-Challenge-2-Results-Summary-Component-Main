@@ -1,0 +1,144 @@
+@media screen and (max-width: 739px){
+    .seccion_results_summary_component {
+      
+        .results_summary_component_contenedor {
+            width: 375px;
+            .your_result_contenedor {
+                    width: 375px;
+                    height: 357px;
+                    padding-top: 25px;
+                    border-top-right-radius: 0;
+                    border-top-left-radius: 0;
+                    border-bottom-left-radius: 32px;
+                    border-bottom-right-radius: 32px;
+                    padding-left: 60px;
+                    padding-right: 60px;
+                .your_result {
+                    font-size: 18px;
+                }
+    
+                .circulo {
+                    width: 140px;
+                    height: 140px;
+                    padding-top: 25.5px;
+                    margin-bottom: 24px;
+                    .puntaje {
+                        font-size: 55px;
+                        height: 71px;
+                        
+                    }
+    
+                    .puntaje_total {
+                       font-size: 16px;
+                    }
+                }
+    
+                .great {
+                    font-size: 24px;
+                    font-weight: 700;
+                    margin-bottom: 8px;
+                }
+    
+                p {
+                    font-size: 16px;
+                }
+            }
+    
+            .summary_contenedor {
+    
+                h2 {
+  
+                }
+    
+                .reaccion_contenedor {
+
+                    .icono_reaccion_y_texto_reaccion {
+
+                        img {}
+    
+                        p {
+                           
+                        }
+    
+                    }
+    
+                    .resultado_reaccion {
+
+                        span {
+
+                        }
+                    }
+                }
+    
+                .memoria_contenedor {
+
+    
+                    .icono_memoria_y_texto_memoria {
+    
+                        img {}
+    
+                        p {
+ 
+                        }
+                    }
+    
+                    .resultado_memoria {
+
+                        span {
+
+                        }
+                    }
+                }
+    
+                .verbal_contenedor {
+    
+                    .icono_verbal_y_texto_verbal {
+                        display: flex;
+    
+                        img {}
+    
+                        p {
+   
+                        }
+                    }
+    
+                    .resultado_verbal {
+
+                    }
+    
+                    span {
+ 
+                    }
+                }
+    
+                .visual_contenedor {
+
+    
+                    .icono_visual_y_texto_visual {
+    
+                        img {}
+    
+                        p {
+  
+                        }
+                    }
+    
+                    .resultado_visual {
+    
+                        span {
+
+                        }
+                    }
+    
+                }
+    
+                .boton_continuar {
+  
+                    &:hover {
+                        
+                    }
+                }
+            }
+        }
+    }
+}
