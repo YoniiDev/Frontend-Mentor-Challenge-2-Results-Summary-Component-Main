@@ -1,142 +1,160 @@
-@media screen and (max-width: 739px){
+@media screen and (max-width: 739px) {
     .seccion_results_summary_component {
-      
+        padding-top: 0;
+
         .results_summary_component_contenedor {
             width: 375px;
+            border-top-right-radius: 0;
+            border-bottom-right-radius: 0;
+
             .your_result_contenedor {
-                    width: 375px;
-                    height: 357px;
-                    padding-top: 25px;
-                    border-top-right-radius: 0;
-                    border-top-left-radius: 0;
-                    border-bottom-left-radius: 32px;
-                    border-bottom-right-radius: 32px;
-                    padding-left: 60px;
-                    padding-right: 60px;
+                width: 375px;
+                height: 357px;
+                padding-top: 25px;
+                border-top-right-radius: 0;
+                border-top-left-radius: 0;
+                border-bottom-left-radius: 32px;
+                border-bottom-right-radius: 32px;
+                padding-left: 60px;
+                padding-right: 60px;
+
                 .your_result {
                     font-size: 18px;
                 }
-    
+
                 .circulo {
                     width: 140px;
                     height: 140px;
                     padding-top: 25.5px;
                     margin-bottom: 24px;
+
                     .puntaje {
+                        font-weight: 700;
                         font-size: 55px;
                         height: 71px;
-                        
+
                     }
-    
+
                     .puntaje_total {
-                       font-size: 16px;
+                        font-size: 16px;
                     }
                 }
-    
+
                 .great {
                     font-size: 24px;
                     font-weight: 700;
                     margin-bottom: 8px;
                 }
-    
+
                 p {
                     font-size: 16px;
                 }
             }
-    
+
             .summary_contenedor {
-    
+                padding-top: 24px;
+                padding-left: 30px;
+                padding-right: 30px;
+                width: 375px;
+                height: 453px;
+                border-top-right-radius: 0;
+                border-bottom-right-radius: 0;
+
                 h2 {
-  
+                    font-size: 18px;
+                    margin-bottom: 24px;
+                    margin-left: 2px;
                 }
-    
+
                 .reaccion_contenedor {
+                    padding-right: 16px;
+                    padding-left: 16px;
 
                     .icono_reaccion_y_texto_reaccion {
 
                         img {}
-    
+
                         p {
-                           
+                            font-size: 16px;
                         }
-    
+
                     }
-    
+
                     .resultado_reaccion {
+                        font-size: 16px;
 
-                        span {
-
-                        }
+                        span {}
                     }
                 }
-    
+
                 .memoria_contenedor {
+                    padding-right: 16px;
+                    padding-left: 16px;
 
-    
                     .icono_memoria_y_texto_memoria {
-    
+
                         img {}
-    
+
                         p {
- 
+                            font-size: 16px;
                         }
                     }
-    
+
                     .resultado_memoria {
+                        font-size: 16px;
 
-                        span {
-
-                        }
+                        span {}
                     }
                 }
-    
+
                 .verbal_contenedor {
-    
+                    padding-right: 16px;
+                    padding-left: 16px;
+
                     .icono_verbal_y_texto_verbal {
                         display: flex;
-    
+
                         img {}
-    
+
                         p {
-   
+                            font-size: 16px;
                         }
                     }
-    
+
                     .resultado_verbal {
+                        font-size: 16px;
+                    }
 
-                    }
-    
-                    span {
- 
-                    }
+                    span {}
                 }
-    
+
                 .visual_contenedor {
+                    padding-right: 16px;
+                    padding-left: 16px;
+                    margin-bottom: 25px;
 
-    
+
                     .icono_visual_y_texto_visual {
-    
-                        img {}
-    
-                        p {
-  
-                        }
-                    }
-    
-                    .resultado_visual {
-    
-                        span {
 
+                        img {}
+
+                        p {
+                            font-size: 16px;
                         }
                     }
-    
-                }
-    
-                .boton_continuar {
-  
-                    &:hover {
-                        
+
+                    .resultado_visual {
+                        font-size: 16px;
+
+                        span {}
                     }
+
+                }
+
+                .boton_continuar {
+                    height: 56px;
+
+                    &:hover {}
                 }
             }
         }
