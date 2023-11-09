@@ -11,28 +11,28 @@ body {
   display: flex;
   justify-content: center;
   padding-top: 40px;
-  padding-bottom: 40px; }
+  padding-bottom: 42px; }
   .seccion_results_summary_component .results_summary_component_contenedor {
     display: flex;
     flex-wrap: wrap;
-    border-top-right-radius: 30px;
-    border-bottom-right-radius: 30px;
+    border-top-right-radius: 32px;
+    border-bottom-right-radius: 32px;
     box-shadow: 12px 12px 21px 2px rgba(200, 199, 255, 0.3);
     -webkit-box-shadow: 12px 12px 21px 2px rgba(200, 199, 255, 0.3);
     -moz-box-shadow: 12px 12px 21px 2px rgba(200, 199, 255, 0.3); }
     .seccion_results_summary_component .results_summary_component_contenedor .your_result_contenedor {
-      width: 370px;
-      height: 514px;
+      width: 369px;
+      height: 512px;
       background: linear-gradient(to top, #2e2be9, #7857ff);
       text-align: center;
-      border-radius: 30px;
-      padding-top: 39px;
-      padding-left: 62px;
-      padding-right: 62px; }
+      border-radius: 32px;
+      padding-top: 38px;
+      padding-left: 60px;
+      padding-right: 60px; }
       .seccion_results_summary_component .results_summary_component_contenedor .your_result_contenedor .your_result {
         color: #c8c7ff;
         font-weight: 700;
-        margin-bottom: 24px; }
+        margin-bottom: 35px; }
       .seccion_results_summary_component .results_summary_component_contenedor .your_result_contenedor .circulo {
         background: linear-gradient(to top, rgba(36, 33, 202, 0), #4e21ca);
         border-radius: 100%;
@@ -49,7 +49,7 @@ body {
         .seccion_results_summary_component .results_summary_component_contenedor .your_result_contenedor .circulo .puntaje_total {
           font-size: 18px;
           font-weight: 700;
-          color: #b3b3b5; }
+          color: #c8c7ff; }
       .seccion_results_summary_component .results_summary_component_contenedor .your_result_contenedor .great {
         color: white;
         font-size: 32px;
@@ -60,13 +60,13 @@ body {
         font-size: 18px;
         font-weight: 500; }
     .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor {
-      width: 370px;
-      height: 514px;
-      border-top-right-radius: 30px;
-      border-bottom-right-radius: 30px;
+      width: 369px;
+      height: 512px;
+      border-top-right-radius: 32px;
+      border-bottom-right-radius: 32px;
       padding-left: 40px;
       padding-right: 40px;
-      padding-top: 39px; }
+      padding-top: 38px; }
       .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor h2 {
         color: #303b5a;
         font-weight: 700;
@@ -78,8 +78,8 @@ body {
         height: 55px;
         background-color: rgba(255, 87, 87, 0.05);
         border-radius: 10px;
-        padding-left: 14px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 18px;
         margin-bottom: 17px; }
         .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .reaccion_contenedor .icono_reaccion_y_texto_reaccion {
           display: flex; }
@@ -93,7 +93,7 @@ body {
           font-size: 18px;
           font-weight: 700; }
           .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .reaccion_contenedor .resultado_reaccion span {
-            color: #b3b3b5;
+            color: #8f8f91;
             margin-left: 4px; }
       .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .memoria_contenedor {
         display: flex;
@@ -102,8 +102,8 @@ body {
         height: 55px;
         background-color: rgba(255, 176, 31, 0.05);
         border-radius: 10px;
-        padding-left: 14px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 18px;
         margin-bottom: 17px; }
         .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .memoria_contenedor .icono_memoria_y_texto_memoria {
           display: flex; }
@@ -117,7 +117,7 @@ body {
           font-size: 18px;
           font-weight: 700; }
           .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .memoria_contenedor .resultado_memoria span {
-            color: #b3b3b5;
+            color: #8f8f91;
             margin-left: 4px; }
       .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .verbal_contenedor {
         display: flex;
@@ -126,8 +126,8 @@ body {
         height: 55px;
         background-color: rgba(0, 189, 145, 0.05);
         border-radius: 10px;
-        padding-left: 14px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 18px;
         margin-bottom: 17px; }
         .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .verbal_contenedor .icono_verbal_y_texto_verbal {
           display: flex; }
@@ -141,7 +141,7 @@ body {
           font-size: 18px;
           font-weight: 700; }
         .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .verbal_contenedor span {
-          color: #b3b3b5;
+          color: #8f8f91;
           margin-left: 4px; }
       .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .visual_contenedor {
         display: flex;
@@ -150,8 +150,8 @@ body {
         height: 55px;
         background-color: rgba(17, 37, 212, 0.05);
         border-radius: 10px;
-        padding-left: 14px;
-        padding-right: 20px;
+        padding-left: 15px;
+        padding-right: 18px;
         margin-bottom: 41px; }
         .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .visual_contenedor .icono_visual_y_texto_visual {
           display: flex; }
@@ -165,12 +165,12 @@ body {
           font-size: 18px;
           font-weight: 700; }
           .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .visual_contenedor .resultado_visual span {
-            color: #b3b3b5;
+            color: #8f8f91;
             margin-left: 4px; }
       .seccion_results_summary_component .results_summary_component_contenedor .summary_contenedor .boton_continuar {
         display: block;
         width: 100%;
-        height: 55px;
+        height: 56px;
         background-color: #303b5a;
         border-radius: 30px;
         text-decoration: none;
