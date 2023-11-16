@@ -1,9 +1,142 @@
+@media screen and (max-width: 1100px){
+    .seccion_results_summary_component {
+        padding-top: 30px;
+        padding-bottom: 30px;
+
+        .results_summary_component_contenedor {
+            
+
+            .your_result_contenedor {
+                
+
+                .your_result {
+                    
+                }
+
+                .circulo {
+                    
+
+                    .puntaje {
+                        
+
+                    }
+
+                    .puntaje_total {
+                        
+                    }
+                }
+
+                .great {
+                    
+                }
+
+                p {
+                   
+                }
+            }
+
+            .summary_contenedor {
+               
+
+                h2 {
+                    
+                }
+
+                .reaccion_contenedor {
+                    
+                    .icono_reaccion_y_texto_reaccion {
+
+                        img {}
+
+                        p {
+                           
+                        }
+
+                    }
+
+                    .resultado_reaccion {
+                        
+
+                        span {}
+                    }
+                }
+
+                .memoria_contenedor {
+                    
+
+                    .icono_memoria_y_texto_memoria {
+
+                        img {}
+
+                        p {
+                           
+                        }
+                    }
+
+                    .resultado_memoria {
+                        
+
+                        span {}
+                    }
+                }
+
+                .verbal_contenedor {
+                    
+
+                    .icono_verbal_y_texto_verbal {
+                        
+
+                        img {}
+
+                        p {
+                            
+                        }
+                    }
+
+                    .resultado_verbal {
+                        
+                    }
+
+                    span {}
+                }
+
+                .visual_contenedor {
+                    
+
+
+                    .icono_visual_y_texto_visual {
+
+                        img {}
+
+                        p {
+                            
+                        }
+                    }
+
+                    .resultado_visual {
+                        
+
+                        span {}
+                    }
+
+                }
+
+                .boton_continuar {
+                  
+            }
+        }
+    }
+}
+}
+
 @media screen and (max-width: 739px) {
     .seccion_results_summary_component {
         padding-top: 0;
+        padding-bottom: 30px;
 
         .results_summary_component_contenedor {
             width: 375px;
+            height: 1024px;
             border-top-right-radius: 0;
             border-bottom-right-radius: 0;
 

@@ -30,10 +30,10 @@ Contar sólo con los diseños en formato jpg, agrega un grado de dificultad más
 ### Links
 
 Este link lo rediccionará al sitio web de Frontend Mentor, donde podrá visualizar el reto y además ver un cuadro comparativo entre el reto terminado y el diseño real.
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/results-summary-component-htmlcsssassflexboxbox-modelmediaquery-DlejQu9l_r#comment-654cd9601d79bb0105a8d899)
 
 En este link visualizará el reto finalizado.
-- Live Site URL: [live site URL](yoniidev.github.io/frontend-mentor-challenge-2-results-summary-component-main/)
+- Live Site URL: [live site URL](https://yoniidev.github.io/Frontend-Mentor-Challenge-2-Results-Summary-Component-Main/)
 
 ## Mi proceso
 
